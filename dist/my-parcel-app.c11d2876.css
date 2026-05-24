@@ -1,0 +1,56 @@
+@font-face {
+  font-family: Franklin Gothic;
+  src: url("ITCFranklinGothicStd-Book.24df057c.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Franklin Gothic;
+  src: url("ITCFranklinGothicStd-BookIt.053a072b.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Franklin Gothic;
+  src: url("ITCFranklinGothicStd-Med.ea538e84.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Franklin Gothic;
+  src: url("ITCFranklinGothicStd-MedIt.fde5f2ea.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Franklin Gothic;
+  src: url("ITCFranklinGothicStd-Hvy.91c68f06.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Franklin Gothic;
+  src: url("ITCFranklinGothicStd-DmCd.9ab78f16.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: condensed;
+}
+
+@font-face {
+  font-family: Franklin Gothic;
+  src: url("ITCFranklinGothicStd-DmCdIt.93f2e92d.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: condensed;
+}
+/*# sourceMappingURL=my-parcel-app.c11d2876.css.map */
